@@ -1,11 +1,6 @@
+![waving](https://capsule-render.vercel.app/api?type=waving&height=230&fontAlignY=40&color=gradient&text=Hi,%20I'm%20Florencia%20&fontSize=40&fontAlign=80)
 
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&fontAlignY=40&color=gradient)
-
-# Hi, I'm Florencia <img src = "https://media1.giphy.com/media/ibYBj2nAb9bvJIbuzj/giphy.gif" width ="50px"  > 
-
-**Frontend Developer | React.js | Node.js**
-
-#
+# Frontend Developer | React.js | Node.js <img src = "https://media1.giphy.com/media/ibYBj2nAb9bvJIbuzj/giphy.gif" width ="50px"  > 
 
 ### Tech Stack
 
@@ -38,4 +33,3 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-30cfc7?style=flat&logo=vercel&logoColor=white)](https://florenciarodriguez.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/florenciamabelrodriguez/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:florodriguez.dev@gmail.com)
-
