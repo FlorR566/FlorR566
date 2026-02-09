@@ -33,3 +33,5 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-30cfc7?style=flat&logo=vercel&logoColor=white)](https://florenciarodriguez.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/florenciamabelrodriguez/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:florodriguez.dev@gmail.com)
+
+<br/>
